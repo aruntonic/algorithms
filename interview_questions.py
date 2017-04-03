@@ -108,12 +108,14 @@ if __name__ == "__main__":
 	# assert max_product_of_sub_array_of_k(2, [10, 1, 4, 25, 5, 10]) == 125
 
 	# no_of_sub_array_with_sum_0
-	assert no_of_sub_array_with_sum_0([2,-2,3,4,0,-7,2,-2]) == 7 
-	assert no_of_sub_array_with_sum_0([2,-2,3,4,0,-7,]) == 4
-	assert no_of_sub_array_with_sum_0([2,-2,3,0,-7,4]) == 4
-	assert no_of_sub_array_with_sum_0([2,-2,-3,0,-7,4]) == 2
-	assert no_of_sub_array_with_sum_0([2,-2,-3,0,-7,4,0]) == 3
-	assert no_of_sub_array_with_sum_0([0,0,0]) == 6
+	# assert no_of_sub_array_with_sum_0([2,-2,3,4,0,-7,2,-2]) == 7 
+	# assert no_of_sub_array_with_sum_0([2,-2,3,4,0,-7,]) == 4
+	# assert no_of_sub_array_with_sum_0([2,-2,3,0,-7,4]) == 4
+	# assert no_of_sub_array_with_sum_0([2,-2,-3,0,-7,4]) == 2
+	# assert no_of_sub_array_with_sum_0([2,-2,-3,0,-7,4,0]) == 3
+	# assert no_of_sub_array_with_sum_0([0,0,0]) == 6
+
+	
 
 
 
